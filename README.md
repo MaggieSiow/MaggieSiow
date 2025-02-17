@@ -13,11 +13,11 @@ Welcome to my GitHub! I'm a **data analyst and visualization specialist** with a
 - 📍 **Based in Seoul, South Korea** | Background in **Digital Strategy & Research Data**  
 - 🎓 **Master’s in Management Information Systems** | Specialized in **data visualization, machine learning, and business intelligence**  
 - 🖥️ **Tech Stack**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
 - 🌟 **Strengths**: Data-driven decision-making, research analysis, and cross-functional collaboration  
 
 ---
