@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a **data analyst and visualization specialist** with a
 ## 📬 Let's Connect!  
 💼 **LinkedIn**: [[My LinkedIn Profile](http://www.linkedin.com/in/siow-mee-qi)]  
 📧 **Email**: siowmaggie97@gmail.com  
-📝 **Portfolio**: [[Visit my case studies gallery!!](https://equatorial-runner-6b2.notion.site/Hey-there-I-am-Maggie-19aa07d8ea20809f9754ebb2c98ae98a)] 
+📝 **Portfolio**: [[Visit My Case Study Gallery](https://equatorial-runner-6b2.notion.site/Hey-there-I-am-Maggie-19aa07d8ea20809f9754ebb2c98ae98a)] 
 
 ---
 
